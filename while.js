@@ -6,7 +6,7 @@
 // roastGiven = roastGiven + 1;
 //roastGiven += 1;
 
-var roastGiven = 0;
+var roastGiven = 1;
 while(roastGiven < 7){
     console.log('Rost den, please !!')
     console.log(roastGiven);
